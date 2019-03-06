@@ -1,3 +1,7 @@
+## Development:
 ```bash
-npm run start`
+$ npm run start
 ```
+## Build:
+```bash
+$ npm run build
