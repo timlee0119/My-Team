@@ -1,0 +1,20 @@
+{
+  teamName: "NTUIM",
+  playerInfo: {
+    {
+      "name": "player1",
+      "sid": "bxxxxxxxx",
+      ...
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+    ...
+  }
+}
